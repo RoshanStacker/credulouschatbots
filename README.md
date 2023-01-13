@@ -1,4 +1,4 @@
-### Hi there 👋
+### Here is the data from the experiments conducted in the paper: Those Aren’t Your Memories, They’re Somebody Else’s: Seeding Misinformation in Chat Bot Memories
 
 <!--
 **credulouschatbots/credulouschatbots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
