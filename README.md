@@ -6,6 +6,14 @@ In this repo is the data for the paper "Those Aren’t Your Memories, They’re 
 
 annotated_data.csv contains each experiment run with the configuration, as well as the manual annotations for misinformation.
 
+
+#### Experiment Condition:  
+**A** - Memory Only, 5 injects  
+**B** - Memory and Internet, 5 injects  
+**C** - Memory Only, Control (no injects)  
+**D** - Memory and Internet, Control (no injects)  
+
+
 ## Chit Chats
 
 The chitchats folder contains the raw conversation logs for each chit chat, as well as the processed chit chat message that can be used to inject into the chat bot in [ParlAi](https://www.parl.ai/).  
